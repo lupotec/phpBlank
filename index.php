@@ -1,7 +1,7 @@
 <?php
 
 
-echo "Ik hou van Granola!";
+echo "Ik heet Patrick!";
 
 
 ?>
